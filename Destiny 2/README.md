@@ -4,7 +4,7 @@
   **Yes these will work with any program that can make macros.**
 
   ## Hunter Skate
-  ![My Image](QoL-Macros/Destiny 2/Hunter Skate.png)
+  ![My Image](Destiny 2/Hunter Skate.png)
   
   ## Warlock Skate
   - First you need to download 7-Zip it's required.
