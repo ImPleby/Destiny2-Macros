@@ -3,7 +3,13 @@
   ## Important
   **Yes these will work with any program that can make macros.**
   
-  [Headers](#Hunter-Skate)
+  ## Table of Contents
+  [Hunter Skate](#Hunter-Skate)
+  [Warlock Skate](#Warlock-Skate)
+  [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)
+  [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)
+  [Templar Flag Cheese](#Templar-Flag-Cheese)
+  
 
   ## Hunter Skate
   ![My Image](Screenshots/HunterSkate.png)
