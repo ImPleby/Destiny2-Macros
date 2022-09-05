@@ -2,6 +2,8 @@
 
   ## Important
   **Yes these will work with any program that can make macros.**
+  
+  [Headers](#Hunter-Skate)
 
   ## Hunter Skate
   ![My Image](Screenshots/HunterSkate.png)
