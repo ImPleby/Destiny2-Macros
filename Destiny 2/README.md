@@ -9,6 +9,7 @@
   * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)  
   * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
   * [Templar Flag Cheese](#Templar-Flag-Cheese)  
+  * [AFK](#AFK)
   
 
   ## Hunter Skate
@@ -25,3 +26,6 @@
   
   ## Templar Flag Cheese
   ![My Image](Screenshots/TemplarFlagCheese.png)
+  
+  ## AFK
+  ![My Image](Screenshots/AFK.png)
