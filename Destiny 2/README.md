@@ -18,7 +18,7 @@
   ![My Image](Screenshots/HunterSkate.png)
   
   ## Hunter Flat Skate
-  ![My Image](Screenshots/HunterFlatSkate.pn)
+  ![My Image](Screenshots/HunterFlatSkate.png)
   
   ## Warlock Skate
   ![My Image](Screenshots/WarlockSkate.png)
