@@ -15,8 +15,14 @@
   ## Hunter Skate
   ![My Image](Screenshots/HunterSkate.png)
   
+  ## Hunter Flat Skate
+  ![My Image](Screenshots/HunterFlatSkate.png)
+  
   ## Warlock Skate
   ![My Image](Screenshots/WarlockSkate.png)
+  
+  ## Warlock Flat Skate
+  ![My Image](Screenshots/WarlockFlatSkate.png)
   
   ## Always On Time Sparrow Flying
   ![My Image](Screenshots/AlwaysOnTimeSparrowFlying.png)
@@ -24,8 +30,8 @@
   ## Exotic Sparrow Flying
   ![My Image](Screenshots/ExoticSparrowFlying.png)
   
-  ## Templar Flag Cheese
-  ![My Image](Screenshots/TemplarFlagCheese.png)
+  ## Rally Flag Troll
+  ![My Image](Screenshots/RallyFlagTroll.png)
   
   ## AFK
   ![My Image](Screenshots/AFK.png)
