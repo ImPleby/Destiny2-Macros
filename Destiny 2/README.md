@@ -5,7 +5,9 @@
   
   ## Table of Contents
   * [Hunter Skate](#Hunter-Skate)  
+  * [Hunter Flat Skate](#Hunter-Flat-Skate)  
   * [Warlock Skate](#Warlock-Skate)  
+  * [Warlock Flat Skate](#Warlock-Flat-Skate)  
   * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)  
   * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
   * [Templar Flag Cheese](#Templar-Flag-Cheese)  
