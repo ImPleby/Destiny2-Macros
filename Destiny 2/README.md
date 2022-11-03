@@ -10,7 +10,7 @@
   * [Warlock Flat Skate](#Warlock-Flat-Skate)  
   * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)  
   * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
-  * [Templar Flag Cheese](#Templar-Flag-Cheese)  
+  * [Rally Flag Troll](#Rally-Flag-Troll)  
   * [AFK](#AFK)
   
 
