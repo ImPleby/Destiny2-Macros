@@ -76,9 +76,9 @@ PressKey("spacebar")
 Sleep(35)
 ReleaseKey("spacebar")
 Sleep(10)
-PressKey("x")
+PressKey("x") -- Shatter Dive Button
 Sleep(10)
-ReleaseKey("x")
+ReleaseKey("x") -- Shatter Dive Button
 end
 end
 ```
@@ -96,9 +96,9 @@ PressKey("spacebar")
 Sleep(35)
 ReleaseKey("spacebar")
 Sleep(35)
-PressKey("f")
+PressKey("f") -- Super Button
 Sleep(35)
-ReleaseKey("f")
+ReleaseKey("f") -- Super Button
 end
 end
 ```
