@@ -46,8 +46,8 @@
   <img src="Screenshots/AFK.png" width="800">
   
   ## Lua Script Buttons
-  M1 = 1<br>
-  M2 = 2<br>
+  Left Mouse Click = 1<br>
+  Right Mouse Click = 2<br>
   Middle Mouse Click = 3<br>
   Bottom Side Button = 4<br>
   Top Side Button = 5<br>
