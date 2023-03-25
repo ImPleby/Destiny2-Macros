@@ -43,13 +43,13 @@
   <img src="Screenshots/AFK.png" width="800">
   
   ## Rocket Fly - lua Script
-function OnEvent(event, arg)<br>
-  if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then<br>
-  --                                                 Only change this number ^<br>
-  PressAndReleaseMouseButton(1)<br>
-  PressKey("q")<br>
-  ReleaseKey("q")<br>
-  MoveMouseRelative(0,30)<br>
-  end<br>
+<p>function OnEvent(event, arg)<br>
+  <p>if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then<br>
+  <p>--                                                 Only change this number ^<br>
+  <p>PressAndReleaseMouseButton(1)<br>
+  <p>PressKey("q")<br>
+  <p>ReleaseKey("q")<br>
+  <p>MoveMouseRelative(0,30)<br>
+  <p>end<br>
 end<br>
   
