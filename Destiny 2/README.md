@@ -49,7 +49,7 @@
   Top Side Button = 5<br>
   Bottom Side Button = 4<br>
   DPI = 6<br>
-  Your GKeys might be different than mine - Mouse Logitech G203<br>
+  Your GKeys might be different than mine - Logitech Mouse G203<br>
   ## Rocket Fly - Lua Script
 ```
 function OnEvent(event, arg)
