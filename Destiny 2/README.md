@@ -54,7 +54,7 @@
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then
---                                                 Only change this number ^
+--                                                        Change if needed ^
 PressAndReleaseMouseButton(1)
 PressKey("q")
 ReleaseKey("q")
@@ -67,7 +67,7 @@ end
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
---                                                 Only change this number ^
+--                                                        Change if needed ^
 PressMouseButton(3)
 Sleep(35)
 ReleaseMouseButton(3)
@@ -76,9 +76,9 @@ PressKey("spacebar")
 Sleep(35)
 ReleaseKey("spacebar")
 Sleep(10)
-PressKey("x") -- Shatter Dive Button
+PressKey("x") -- Shatter Dive Button. Change if needed
 Sleep(10)
-ReleaseKey("x") -- Shatter Dive Button
+ReleaseKey("x") -- Shatter Dive Button. Change if needed
 end
 end
 ```
@@ -87,7 +87,7 @@ end
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("scrolllock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
---                                                 Only change this number ^
+--                                                        Change if needed ^
 PressMouseButton(3)
 Sleep(35)
 ReleaseMouseButton(3)
@@ -96,9 +96,9 @@ PressKey("spacebar")
 Sleep(35)
 ReleaseKey("spacebar")
 Sleep(35)
-PressKey("f") -- Super Button
+PressKey("f") -- Super Button. Change if needed
 Sleep(35)
-ReleaseKey("f") -- Super Button
+ReleaseKey("f") -- Super Button. Change if needed
 end
 end
 ```
