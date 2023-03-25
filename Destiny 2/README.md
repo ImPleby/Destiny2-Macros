@@ -42,7 +42,7 @@
   ## AFK
   <img src="Screenshots/AFK.png" width="800">
   
-  ## Rocket Fly - lua Script
+  ## Rocket Fly - Lua Script
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then
@@ -54,4 +54,3 @@ MoveMouseRelative(0,30)
 end
 end
 ```
-  
