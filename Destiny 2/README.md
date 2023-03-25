@@ -43,10 +43,6 @@
   <img src="Screenshots/AFK.png" width="800">
   
   ## Rocket Fly - lua Script
-  ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
 ```
 function OnEvent(event, arg)<br>
   if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then<br>
@@ -57,4 +53,5 @@ function OnEvent(event, arg)<br>
   MoveMouseRelative(0,30)<br>
   end<br>
 end<br>
+```
   
