@@ -49,8 +49,8 @@
   M1 = 1<br>
   M2 = 2<br>
   Middle Mouse Click = 3<br>
-  Top Side Button = 5<br>
   Bottom Side Button = 4<br>
+  Top Side Button = 5<br>
   DPI = 6<br>
   Your GKeys might be different than mine - Logitech Mouse G203<br>
   ## Rocket Fly Lua Script
