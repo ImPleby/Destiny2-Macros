@@ -8,6 +8,7 @@
   * [Hunter Flat Skate](#Hunter-Flat-Skate)  
   * [Warlock Skate](#Warlock-Skate)  
   * [Warlock Flat Skate](#Warlock-Flat-Skate)  
+  * [Titan Skate](#Titan-Skate)  
   * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)  
   * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
   * [Rally Flag Troll](#Rally-Flag-Troll)  
@@ -25,6 +26,9 @@
   
   ## Warlock Flat Skate
   ![My Image](Screenshots/WarlockFlatSkate.png)
+  
+  ## Titan Skate
+  ![My Image](Screenshots/TitanSkate.png)
   
   ## Always On Time Sparrow Flying
   ![My Image](Screenshots/AlwaysOnTimeSparrowFlying.png)
