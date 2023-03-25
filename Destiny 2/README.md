@@ -43,13 +43,13 @@
   <img src="Screenshots/AFK.png" width="800">
   
   ## Lua Script Buttons
-  M1 = 1
-  M2 = 2
-  Middle Mouse Click = 3
-  Top Side Button = 5
-  Bottom Side Button = 4
-  DPI = 6
-  Your GKeys might be different than mine - Mouse Logitech G203
+  M1 = 1<br>
+  M2 = 2<br>
+  Middle Mouse Click = 3<br>
+  Top Side Button = 5<br>
+  Bottom Side Button = 4<br>
+  DPI = 6<br>
+  Your GKeys might be different than mine - Mouse Logitech G203<br>
   ## Rocket Fly - Lua Script
 ```
 function OnEvent(event, arg)
