@@ -19,25 +19,25 @@
   <img src="Screenshots/HunterSkate.png" width="800">
   
   ## Hunter Flat Skate
-  ![My Image](Screenshots/HunterFlatSkate.png)
+  <img src="Screenshots/HunterFlatSkate.png" width="800">
   
   ## Warlock Skate
-  ![My Image](Screenshots/WarlockSkate.png)
+  <img src="Screenshots/WarlockSkate.png" width="800">
   
   ## Warlock Flat Skate
-  ![My Image](Screenshots/WarlockFlatSkate.png)
+  <img src="Screenshots/WarlockFlatSkate.png" width="800">
   
   ## Titan Skate
-  ![My Image](Screenshots/TitanSkate.png)
+  <img src="Screenshots/TitanSkate.png" width="800">
   
   ## Always On Time Sparrow Flying
-  ![My Image](Screenshots/AlwaysOnTimeSparrowFlying.png)
+  <img src="Screenshots/AlwaysOnTimeSparrowFlying.png" width="800">
   
   ## Exotic Sparrow Flying
-  ![My Image](Screenshots/ExoticSparrowFlying.png)
+  <img src="Screenshots/ExoticSparrowFlying.png" width="800">
   
   ## Rally Flag Troll
-  ![My Image](Screenshots/RallyFlagTroll.png)
+  <img src="Screenshots/RallyFlagTroll.png" width="800">
   
   ## AFK
-  ![My Image](Screenshots/AFK.png)
+  <img src="Screenshots/AFK.png" width="800">
