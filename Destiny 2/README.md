@@ -53,7 +53,7 @@
   Bottom Side Button = 4<br>
   DPI = 6<br>
   Your GKeys might be different than mine - Logitech Mouse G203<br>
-  ## Rocket Fly - Lua Script
+  ## Rocket Fly Lua Script
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then
@@ -66,7 +66,7 @@ end
 end
 ```
 
-  ## Hunter Skate - Lua Script
+  ## Hunter Skate Lua Script
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
@@ -86,7 +86,7 @@ end
 end
 ```
   
-  ## Warlock Skate - Lua Script
+  ## Warlock Skate Lua Script
 ```
 function OnEvent(event, arg)
 if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
