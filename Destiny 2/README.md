@@ -43,7 +43,7 @@
   <img src="Screenshots/AFK.png" width="800">
   
   ## Rocket Fly - lua Script
-function OnEvent(event, arg)
+function OnEvent(event, arg) /n
   if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then
   --                                                 Only change this number ^
   PressAndReleaseMouseButton(1)
