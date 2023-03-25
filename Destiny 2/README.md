@@ -86,7 +86,7 @@ end
   ## Warlock Skate - Lua Script
 ```
 function OnEvent(event, arg)
-if IsKeyLockOn("scrolllock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
+if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
 --                                                        Change if needed ^
 PressMouseButton(3)
 Sleep(35)
