@@ -13,7 +13,10 @@
   * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
   * [Rally Flag Troll](#Rally-Flag-Troll)  
   * [AFK](#AFK)
-  
+  * [Lua Script Buttons](#Lua-Script-Buttons)
+  * [Rocket Fly - Lua Script](#Rocket-Fly - Lua Script)
+  * [Hunter Skate - Lua Script](#Hunter-Skate - Lua Script)
+  * [Warlock Skate - Lua Script](#Warlock-Skate - Lua Script)
 
   ## Hunter Skate
   <img src="Screenshots/HunterSkate.png" width="800">
