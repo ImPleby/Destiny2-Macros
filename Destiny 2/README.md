@@ -44,14 +44,14 @@
   
   ## Rocket Fly - lua Script
 ```
-function OnEvent(event, arg)<br>
-if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then<br>
---                                                 Only change this number ^<br>
-PressAndReleaseMouseButton(1)<br>
-PressKey("q")<br>
-ReleaseKey("q")<br>
-MoveMouseRelative(0,30)<br>
-end<br>
-end<br>
+function OnEvent(event, arg)
+if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 3) then
+--                                                 Only change this number ^
+PressAndReleaseMouseButton(1)
+PressKey("q")
+ReleaseKey("q")
+MoveMouseRelative(0,30)
+end
+end
 ```
   
