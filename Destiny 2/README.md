@@ -62,3 +62,43 @@ MoveMouseRelative(0,30)
 end
 end
 ```
+
+  ## Hunter Skate - Lua Script
+```
+function OnEvent(event, arg)
+if IsKeyLockOn("capslock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
+--                                                 Only change this number ^
+PressMouseButton(3)
+Sleep(35)
+ReleaseMouseButton(3)
+Sleep(35)
+PressKey("spacebar")
+Sleep(35)
+ReleaseKey("spacebar")
+Sleep(10)
+PressKey("x")
+Sleep(10)
+ReleaseKey("x")
+end
+end
+```
+  
+  ## Warlock Skate - Lua Script
+```
+function OnEvent(event, arg)
+if IsKeyLockOn("scrolllock") and (event == "MOUSE_BUTTON_PRESSED" and arg == 5) then
+--                                                 Only change this number ^
+PressMouseButton(3)
+Sleep(35)
+ReleaseMouseButton(3)
+Sleep(35)
+PressKey("spacebar")
+Sleep(35)
+ReleaseKey("spacebar")
+Sleep(35)
+PressKey("f")
+Sleep(35)
+ReleaseKey("f")
+end
+end
+```
