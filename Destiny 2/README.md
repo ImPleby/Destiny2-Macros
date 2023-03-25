@@ -17,6 +17,7 @@
 
   ## Hunter Skate
   ![My Image](Screenshots/HunterSkate.png)
+  <img src="Screenshots/HunterSkate.png" width="48">
   
   ## Hunter Flat Skate
   ![My Image](Screenshots/HunterFlatSkate.png)
