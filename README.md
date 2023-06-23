@@ -1,7 +1,7 @@
 # Destiny 2
 
   ## Important
-  **Yes these will work with any program that can make macros.**
+  **Yes these will work with any program that can make macros. AutoHotKey, Razer, Tinytask, etc**
   
   ## Table of Contents
   * [Hunter Skate](#Hunter-Skate)  
