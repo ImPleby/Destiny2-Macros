@@ -1,4 +1,4 @@
-# Destiny 2
+# Destiny 2 Macros
 
   ## Important
   **Yes these will work with any program that can make macros. AutoHotKey, Razer, Tinytask, etc**
