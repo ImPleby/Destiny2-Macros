@@ -4,14 +4,14 @@
   **Yes these will work with any program that can make macros. AutoHotKey, Razer, Tinytask, etc**
   
   ## Table of Contents
-  * [Hunter Skate](Hunter-Skate)  
-  * [Hunter Flat Skate](#Hunter-Flat-Skate)  
-  * [Warlock Skate](#Warlock-Skate)  
-  * [Warlock Flat Skate](#Warlock-Flat-Skate)  
-  * [Titan Skate](#Titan-Skate)  
-  * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)  
-  * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)  
-  * [Rally Flag Troll](#Rally-Flag-Troll)  
+  * [Hunter Skate](#Hunter-Skate)
+  * [Hunter Flat Skate](#Hunter-Flat-Skate)
+  * [Warlock Skate](#Warlock-Skate)
+  * [Warlock Flat Skate](#Warlock-Flat-Skate)
+  * [Titan Skate](#Titan-Skate)
+  * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)
+  * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)
+  * [Rally Flag Troll](#Rally-Flag-Troll)
   * [AFK](#AFK)
   * [Lua Script Buttons](#Lua-Script-Buttons)
   * [Rocket Fly Lua Script](#Rocket-Fly-Lua-Script)
