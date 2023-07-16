@@ -32,7 +32,7 @@
   
   ## Warlock Flat Skate
   <img src="Screenshots/WarlockFlatSkate.png" width="800">
-  Usage: [Meow](https://youtu.be/8dBiK6m_uzI)
+  Usage: [meow](https://youtu.be/8dBiK6m_uzI)
   
   ## Titan Skate
   <img src="Screenshots/TitanSkate.png" width="800">
