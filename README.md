@@ -32,6 +32,7 @@
   
   ## Warlock Flat Skate
   <img src="Screenshots/WarlockFlatSkate.png" width="800">
+  
   Usage: [meow](https://youtu.be/8dBiK6m_uzI)
   
   ## Titan Skate
@@ -114,4 +115,3 @@ ReleaseKey("f") -- Super Button. Change if needed
 end
 end
 ```
-[meow](https://youtu.be/8dBiK6m_uzI)
