@@ -32,7 +32,7 @@
   
   ## Warlock Flat Skate
   <img src="Screenshots/WarlockFlatSkate.png" width="800">
-  Usage: [Link Here](https://youtu.be/8dBiK6m_uzI)
+  Usage: [https://youtu.be/8dBiK6m_uzI](Click Here)
   
   ## Titan Skate
   <img src="Screenshots/TitanSkate.png" width="800">
