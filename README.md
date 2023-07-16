@@ -20,30 +20,39 @@
 
   ## Hunter Skate
   <img src="Screenshots/HunterSkate.png" width="800">
+  Usage: [Link Here](https://youtu.be/1JK1tbOjQcI)
   
   ## Hunter Flat Skate
   <img src="Screenshots/HunterFlatSkate.png" width="800">
+  Usage: [Link Here](https://youtu.be/dxexie6Hg1M)
   
   ## Warlock Skate
   <img src="Screenshots/WarlockSkate.png" width="800">
+  Usage: [Link Here](https://youtu.be/a6Cv_LOeTMc)
   
   ## Warlock Flat Skate
   <img src="Screenshots/WarlockFlatSkate.png" width="800">
+  Usage: [Link Here](https://youtu.be/8dBiK6m_uzI)
   
   ## Titan Skate
   <img src="Screenshots/TitanSkate.png" width="800">
+  Usage: [Link Here]()
   
   ## Always On Time Sparrow Flying
   <img src="Screenshots/AlwaysOnTimeSparrowFlying.png" width="800">
+  Usage: [Link Here]()
   
   ## Exotic Sparrow Flying
   <img src="Screenshots/ExoticSparrowFlying.png" width="800">
+  Usage: [Link Here]()
   
   ## Rally Flag Troll
   <img src="Screenshots/RallyFlagTroll.png" width="800">
+  Usage: [Link Here]()
   
   ## AFK
   <img src="Screenshots/AFK.png" width="800">
+  Usage: [Link Here]()
   
   ## Lua Script Buttons
   Left Mouse Click = 1<br>
