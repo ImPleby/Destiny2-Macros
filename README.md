@@ -32,7 +32,7 @@
   
   ## Warlock Flat Skate
   <img src="Screenshots/WarlockFlatSkate.png" width="800">
-  Usage: [I'm an inline-style link](https://www.google.com)
+  [I'm an inline-style link](https://www.google.com)
   
   ## Titan Skate
   <img src="Screenshots/TitanSkate.png" width="800">
