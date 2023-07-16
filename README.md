@@ -18,7 +18,7 @@
   * [Hunter Skate Lua Script](#Hunter-Skate-Lua-Script)
   * [Warlock Skate Lua Script](#Warlock-Skate-Lua-Script)
 
-  ## Hunter-Skate
+  ## Hunter Skate
   <img src="Screenshots/HunterSkate.png" width="800">
   
   ## Hunter Flat Skate
