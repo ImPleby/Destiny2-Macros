@@ -5,18 +5,18 @@
   
   ## Table of Contents
   * [Hunter Skate](#hunter-skate)
-  * [Hunter Flat Skate](#hunter-Flat-Skate)
-  * [Warlock Skate](#Warlock-Skate)
-  * [Warlock Flat Skate](#Warlock-Flat-Skate)
-  * [Titan Skate](#Titan-Skate)
-  * [Always On Time Sparrow Flying](#Always-On-Time-Sparrow-Flying)
-  * [Exotic Sparrow Flying](#Exotic-Sparrow-Flying)
-  * [Rally Flag Troll](#Rally-Flag-Troll)
-  * [AFK](#AFK)
-  * [Lua Script Buttons](#Lua-Script-Buttons)
-  * [Rocket Fly Lua Script](#Rocket-Fly-Lua-Script)
-  * [Hunter Skate Lua Script](#Hunter-Skate-Lua-Script)
-  * [Warlock Skate Lua Script](#Warlock-Skate-Lua-Script)
+  * [Hunter Flat Skate](#hunter-flat-skate)
+  * [Warlock Skate](#warlock-skate)
+  * [Warlock Flat Skate](#warlock-flat-skate)
+  * [Titan Skate](#titan-skate)
+  * [Always On Time Sparrow Flying](#always-on-time-sparrow-flying)
+  * [Exotic Sparrow Flying](#exotic-sparrow-flying)
+  * [Rally Flag Troll](#rally-flag-troll)
+  * [AFK](#afk)
+  * [Lua Script Buttons](#lua-script-buttons)
+  * [Rocket Fly Lua Script](#rocket-fly-lua-script)
+  * [Hunter Skate Lua Script](#hunter-skate-lua-script)
+  * [Warlock Skate Lua Script](#warlock-skate-lua-script)
 
   ## Hunter Skate
   <img src="Screenshots/HunterSkate.png" width="800">
