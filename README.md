@@ -5,7 +5,7 @@
   
   ## Table of Contents
   * [Hunter Skate](#hunter-skate)
-  * [Hunter Flat Skate](#Hunter-Flat-Skate)
+  * [Hunter Flat Skate](#hunter-Flat-Skate)
   * [Warlock Skate](#Warlock-Skate)
   * [Warlock Flat Skate](#Warlock-Flat-Skate)
   * [Titan Skate](#Titan-Skate)
