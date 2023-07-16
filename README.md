@@ -4,7 +4,7 @@
   **Yes these will work with any program that can make macros. AutoHotKey, Razer, Tinytask, etc**
   
   ## Table of Contents
-  1. [Hunter Skate](#Hunter-Skate)
+  * [Hunter Skate](#Hunter-Skate)
   * [Hunter Flat Skate](#Hunter-Flat-Skate)
   * [Warlock Skate](#Warlock-Skate)
   * [Warlock Flat Skate](#Warlock-Flat-Skate)
@@ -18,7 +18,7 @@
   * [Hunter Skate Lua Script](#Hunter-Skate-Lua-Script)
   * [Warlock Skate Lua Script](#Warlock-Skate-Lua-Script)
 
-  ## Hunter Skate
+  ## Hunter-Skate
   <img src="Screenshots/HunterSkate.png" width="800">
   
   ## Hunter Flat Skate
