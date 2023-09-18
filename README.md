@@ -7,9 +7,9 @@
   ## Logitech Macros
   Download: https://www.logitechg.com/en-us/innovation/g-hub.html
   
-  Usage: [Click Here](https://github.com/ImPleby/Destiny2-Macros/tree/main/Logitech)
+  Macros: [Click Here](https://github.com/ImPleby/Destiny2-Macros/tree/main/Logitech)
   
   ## AutoHotkey Macros
   Download: https://www.autohotkey.com/
   
-  Usage: [Click Here](https://github.com/ImPleby/Destiny2-Macros/tree/main/AutoHotkey)
+  Macros: [Click Here](https://github.com/ImPleby/Destiny2-Macros/tree/main/AutoHotkey)
