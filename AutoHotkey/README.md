@@ -68,9 +68,9 @@ SuperKeyBind = F
   
   You'll need to change the sensitivity value to be able to grapple onto the rocket. I'll provide some values but they might not work for your sensitivity so you're gonna have to test it on your own. Just a theory, but I don't think resolution matters it's the screen ratio that matters. 1440p and 1080p have the same ratio so in my testing its works on both.<br/>
   
-  Resolution = 1440p | DPI = 530 | In-game sensitivity = 8 | Macro Sensitivity = 27.5
-  Resolution = 1080p | DPI = 400 | In-game sensitivity = 9 | Macro Sensitivity = 25
-  Resolution = 1080p | DPI = 1300 | In-game sensitivity = 4 | Macro Sensitivity = 54
+  Resolution = 1440p | DPI = 530 | In-game sensitivity = 8 | Macro Sensitivity = 27.5<br/>
+  Resolution = 1080p | DPI = 400 | In-game sensitivity = 9 | Macro Sensitivity = 25<br/>
+  Resolution = 1080p | DPI = 1300 | In-game sensitivity = 4 | Macro Sensitivity = 54<br/>
 ```
 ;  Fly Bind ↓↓↓ | Change it to would whatever you want.
 FlyKeyBind = B
