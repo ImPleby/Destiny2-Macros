@@ -9,6 +9,24 @@
   ## Hunter Skate
   Download: [Click Here](https://mega.nz/#P!AgHNAmIArlA0M3INk2O-9lKN3rjljHqLnu9CAw5at5Q8-3Xudvc0B_yReglsfHvFX2HAbhSUhbQ7t5tRTU-Jlv59sU-2NHCIpJCqgHNWgGlVNVhbyrw9r1knFsMS2wBWxkqQy7y4Jwc)
   
+  Default Keybinds:
+  Skate = B
+  Flat Skate = N
+  Toggle On/Off = =
+  Exit app = F4
+  
+  If you want to change the binds, edit the Hunter Skate.ahk file by right clicking it and click edit.
+  Only change the letters under the arrows. So if I wanted the skate bind to be K i would change the B to K. For mouse side buttons they are called XButton1 and XButton2
+  ```
+  ;        Skate Bind ↓↓↓ | Change it to would whatever you want.
+  HunterSkateKeyBind = B
+
+  ;            Flat Sakte ↓↓↓ | Change it to would whatever you want.
+  HunterFlatSkateKeyBind = N
+
+  ;  Shatterdive Bind ↓↓↓ | Change it to would whatever you want.
+  ShatterdiveKeyBind = X
+  ```
   Hunter Skate Usage: [Click Here](https://youtu.be/1JK1tbOjQcI)<br/>
   Hunter Flat Skate Usage: [Click Here](https://youtu.be/dxexie6Hg1M)<br/>
   
