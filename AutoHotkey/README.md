@@ -17,16 +17,16 @@
   
   If you want to change the binds, edit the Hunter Skate.ahk file by right clicking it and click edit.
   Only change the letters under the arrows. So if I wanted the skate bind to be K i would change the B to K. For mouse side buttons they are called XButton1 and XButton2
-  ```
-  ;        Skate Bind ↓↓↓ | Change it to would whatever you want.
-  HunterSkateKeyBind = B
+```
+;        Skate Bind ↓↓↓ | Change it to would whatever you want.
+HunterSkateKeyBind = B
 
-  ;            Flat Sakte ↓↓↓ | Change it to would whatever you want.
-  HunterFlatSkateKeyBind = N
+;            Flat Sakte ↓↓↓ | Change it to would whatever you want.
+HunterFlatSkateKeyBind = N
 
-  ;  Shatterdive Bind ↓↓↓ | Change it to would whatever you want.
-  ShatterdiveKeyBind = X
-  ```
+;  Shatterdive Bind ↓↓↓ | Change it to would whatever you want.
+ShatterdiveKeyBind = X
+```
   Hunter Skate Usage: [Click Here](https://youtu.be/1JK1tbOjQcI)<br/>
   Hunter Flat Skate Usage: [Click Here](https://youtu.be/dxexie6Hg1M)<br/>
   
