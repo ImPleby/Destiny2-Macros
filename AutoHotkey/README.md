@@ -58,7 +58,7 @@ SuperKeyBind = F
   Download: [Click Here](https://mega.nz/#P!AgGt1DCNqso_KzR0WagdBOtDAUBy9nwXGsfS96qxfDEpbC6oPA-EifHDY9YiSfFD8wMHZTMn0swt9KWDuAXL7DHJtz26VIXU2f-Wodx_EVeKQ5HAYMFHNYs4ADB7QcqovntuNE7koK8)
   
   Default Keybinds:<br/>
-  Skate = B<br/>
+  Fly = B<br/>
   Grenade = Q<br/>
   Toggle On/Off = =<br/>
   Exit app = F4<br/>
