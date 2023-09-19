@@ -9,15 +9,13 @@
   ## Hunter Skate
   Download: [Click Here](https://mega.nz/#P!AgHNAmIArlA0M3INk2O-9lKN3rjljHqLnu9CAw5at5Q8-3Xudvc0B_yReglsfHvFX2HAbhSUhbQ7t5tRTU-Jlv59sU-2NHCIpJCqgHNWgGlVNVhbyrw9r1knFsMS2wBWxkqQy7y4Jwc)
   
-  Usage: [Click Here](https://youtu.be/1JK1tbOjQcI)
-  
-  Usage: [Click Here](https://youtu.be/dxexie6Hg1M)
+  Usage: [Click Here](https://youtu.be/1JK1tbOjQcI)<br/>
+  Usage: [Click Here](https://youtu.be/dxexie6Hg1M)<br/>
   
   ## Warlock Skate
   Download: [Click Here](https://mega.nz/#P!AgGoXBfNjpi_uVtewVroTRMl_mFlYLDyBJ1vx6ccxZmXCpWhBYLKqa6ft8NgkDiqv--7vNgmYWp1-KZnJxBX1-NYcbBjnBpGXhi09BZfybYY2DPKZ34AkTgINz8Hx5IIJTe5-ixWgeM)
   
   Usage: [Click Here](https://youtu.be/a6Cv_LOeTMc)
-  
   Usage: [Click Here](https://youtu.be/8dBiK6m_uzI)
   
   ## Rocket Fly
