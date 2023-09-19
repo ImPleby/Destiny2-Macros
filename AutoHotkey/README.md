@@ -11,7 +11,7 @@
   * [AFK](#afk)
 
   ## Hunter Skate
-  Download: [Click Here](https://ouo.io/k3h9Do)
+  Download: [Click Here](https://ouo.io/D0EeAj)
   
   Default Keybinds:<br/>
   Skate = B<br/>
@@ -35,7 +35,7 @@ ShatterdiveKeyBind = X
   Hunter Flat Skate Usage: [Click Here](https://youtu.be/dxexie6Hg1M)<br/>
   
   ## Warlock Skate
-  Download: [Click Here](https://ouo.io/aVxa33O)
+  Download: [Click Here](https://ouo.io/cL3fwj)
   
   Default Keybinds:<br/>
   Skate = B<br/>
@@ -59,7 +59,7 @@ SuperKeyBind = F
   Warlock Flat Skate Usage: [Click Here](https://youtu.be/8dBiK6m_uzI)<br/>
   
   ## Rocket Fly
-  Download: [Click Here](https://ouo.io/evvuJ8)
+  Download: [Click Here](https://ouo.io/L3lcDT)
   
   Default Keybinds:<br/>
   Fly = B<br/>
@@ -89,7 +89,7 @@ GrenadeKeyBind = Q
   Usage: [Click Here]()
   
   ## AFK
-  Download: [Click Here](https://ouo.io/xWEN3hc)
+  Download: [Click Here](https://ouo.io/8xzNH0)
   
   Default Keybinds:<br/>
   AFK = F3<br/>
