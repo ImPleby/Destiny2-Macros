@@ -66,7 +66,7 @@ SuperKeyBind = F
   If you want to change the binds, edit the Rocket Fly.ahk file by right clicking it and click edit.
   Only change the letters under the arrows. So if I wanted the rocket fly bind to be K I would change the B to K. For mouse side buttons they are called XButton1 and XButton2 Mouse buttons not recommended for rocket fly to minimize errors.<br/>
   
-  You'll need to change the sensitivity value to be able to grapple onto the rocket. I'll provide some values but they might not work for your sensitivity so you're gonna have to test it on your own.<br/>
+  You'll need to change the sensitivity value to be able to grapple onto the rocket. I'll provide some values but they might not work for your sensitivity so you're gonna have to test it on your own. Just a theory, but I don't think resolution matters it's the screen ratio that matters. 1440p and 1080p have the same ratio so in my testing its works on both.<br/>
   
   Resolution = 1440p | DPI = 530 | In-game sensitivity = 8 | Macro Sensitivity = 27.5
   Resolution = 1080p | DPI = 400 | In-game sensitivity = 9 | Macro Sensitivity = 25
