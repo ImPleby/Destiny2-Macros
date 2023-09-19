@@ -1,5 +1,9 @@
 # Destiny 2 Macros
   
+  ## Password
+  ```
+  NaisuMacros
+  ```
   ## Table of Contents
   * [Hunter Skate](#hunter-skate)
   * [Warlock Skate](#warlock-skate)
