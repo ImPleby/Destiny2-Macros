@@ -96,7 +96,7 @@ GrenadeKeyBind = Q
   Toggle On/Off = =<br/>
   Exit app = F4<br/>
   
-  If you want to change the binds, edit the Warlock Skate.ahk file by right clicking it and click edit.
+  If you want to change the binds, edit the AFK.ahk file by right clicking it and click edit.
   Only change the letters under the arrows. So if I wanted the skate bind to be K I would change the B to K. For mouse side buttons they are called XButton1 and XButton2
 ```
 ;  AFK Bind ↓↓↓ | Change it to would whatever you want.
