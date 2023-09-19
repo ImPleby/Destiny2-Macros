@@ -2,7 +2,7 @@
   
   ## Table of Contents
   * [Logitech Macros](#logitech)
-  * [AutoHotkey](#autohotkey)
+  * [AutoHotkey Macros](#autohotkey)
 
   ## Logitech Macros
   Download: https://www.logitechg.com/en-us/innovation/g-hub.html
