@@ -35,7 +35,7 @@ ShatterdiveKeyBind = X
   Hunter Flat Skate Usage: [Click Here](https://youtu.be/dxexie6Hg1M)<br/>
   
   ## Warlock Skate
-  Download: [Click Here](https://ouo.io/3S0zqev)
+  Download: [Click Here](https://ouo.io/SW4Wadu)
   
   Default Keybinds:<br/>
   Skate = B<br/>
